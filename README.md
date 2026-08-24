@@ -79,3 +79,6 @@ print(ai_tools)
 
 ### 8. Tuples (tuple)
 Tuples are ordered and immutable (unchangeable once created), but they allow duplicate members. They are written with round brackets (). Because they are immutable, they are faster than lists.
+
+### 9. Sets (set)
+Sets are unordered, unindexed, and do not allow duplicate values. They are written with curly brackets {}. They are very useful for mathematical operations like union and intersection.
