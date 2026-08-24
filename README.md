@@ -39,3 +39,10 @@ Variables are containers for storing data values. Python has dynamic typing, mea
 * **Float (float)**: Decimal numbers (e.g., 10.5, 3.14)
 * **String (str)**: Text data (e.g., "Hello", 'Python')
 * **Boolean (bool)**: True or False (True, False)
+
+### 3. Operators
+Operators are used to perform operations on variables and values:
+
+* **Arithmetic**: +, -, *, /, // (floor division), % (modulus), ** (exponent)
+* **Comparison**: ==, !=, >, <, >=, <=
+* **Logical**: and, or, not
