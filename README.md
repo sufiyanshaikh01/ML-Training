@@ -47,5 +47,5 @@ Operators are used to perform operations on variables and values:
 * **Comparison**: ==, !=, >, <, >=, <=
 * **Logical**: and, or, not
 
-4. Conditional Statements
+### 4. Conditional Statements
 Conditional statements are used to make decisions in code based on specific conditions using if, elif, and else.
