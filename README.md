@@ -29,3 +29,12 @@ Python is a high-level, interpreted programming language known for its readabili
 ```python
 # My first Python program
 print("Hello, Accenture AI/ML Training!")
+
+
+### 2. Variables & Data Types
+Variables are containers for storing data values. Python has dynamic typing, meaning you don't need to explicitly declare the data type.
+
+* **Integer (int)**: Whole numbers (e.g., 10, -3)
+* **Float (float)**: Decimal numbers (e.g., 10.5, 3.14)
+* **String (str)**: Text data (e.g., "Hello", 'Python')
+* **Boolean (bool)**: True or False (True, False)
