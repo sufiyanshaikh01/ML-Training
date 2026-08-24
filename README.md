@@ -22,6 +22,10 @@ Welcome to the **Python Basics** module of my TNS AI/ML training repository. Thi
 4. [Conditional Statements](#4-conditional-statements)
 5. [Loops (Control Flow)](#5-loops-control-flow)
 6. [Functions](#6-functions)
+7. [Lists (`list`)](#7-lists-list)
+8. [Tuples (`tuple`)](#8-tuples-tuple)
+9. [Sets (`set`)](#9-sets-set)
+10. [Dictionaries (`dict`)](#10-dictionaries-dict)
 
 ### 1. Introduction & Syntax
 Python is a high-level, interpreted programming language known for its readability and simple syntax. Unlike other languages, Python uses indentation instead of curly braces (`{}`) to define blocks of code.
