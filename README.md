@@ -76,3 +76,6 @@ ai_tools.append("Llama")      # Adds an item at the end
 ai_tools.remove("Claude")     # Removes a specific item
 print(ai_tools) 
 ```
+
+### 8. Tuples (tuple)
+Tuples are ordered and immutable (unchangeable once created), but they allow duplicate members. They are written with round brackets (). Because they are immutable, they are faster than lists.
