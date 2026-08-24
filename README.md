@@ -14,3 +14,5 @@ This repository serves as a centralized log of my daily progress, assignments, c
   # 🐍 Python Basics - TNS AI/ML Training
 
 Welcome to the **Python Basics** module of my TNS AI/ML training repository. This section covers the fundamental building blocks of Python programming, which are essential before moving on to data science and machine learning libraries.
+
+## 📑 Table of Contents
