@@ -16,3 +16,9 @@ This repository serves as a centralized log of my daily progress, assignments, c
 Welcome to the **Python Basics** module of my TNS AI/ML training repository. This section covers the fundamental building blocks of Python programming, which are essential before moving on to data science and machine learning libraries.
 
 ## 📑 Table of Contents
+1. [Introduction & Syntax](#1-introduction--syntax)
+2. [Variables & Data Types](#2-variables--data-types)
+3. [Operators](#3-operators)
+4. [Conditional Statements](#4-conditional-statements)
+5. [Loops (Control Flow)](#5-loops-control-flow)
+6. [Functions](#6-functions)
