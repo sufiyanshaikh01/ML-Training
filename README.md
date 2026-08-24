@@ -10,3 +10,7 @@ This repository serves as a centralized log of my daily progress, assignments, c
 * **Duration:** 45 Days 
 * **Start Date:** August 17, 2026
 * **Focus Area:** Python Programming, Data Analysis, Machine Learning, and Real-world AI Applications
+
+  # 🐍 Python Basics - Accenture AI/ML Training
+
+Welcome to the **Python Basics** module of my AI/ML training repository. This section covers the fundamental building blocks of Python programming, which are essential before moving on to data science and machine learning libraries.
