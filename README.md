@@ -29,6 +29,7 @@ Python is a high-level, interpreted programming language known for its readabili
 ```python
 # My first Python program
 print("Hello, Accenture AI/ML Training!")
+```
 
 
 ### 2. Variables & Data Types
