@@ -49,3 +49,9 @@ Operators are used to perform operations on variables and values:
 
 ### 4. Conditional Statements
 Conditional statements are used to make decisions in code based on specific conditions using if, elif, and else.
+
+### 5. Loops (Control Flow)
+Loops allow you to execute a block of code multiple times.
+
+* **for loop**: Used for iterating over a sequence (like a list, tuple, or range).
+* **while loop**: Executes a block of code as long as a condition is true.
