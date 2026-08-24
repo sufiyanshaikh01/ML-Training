@@ -59,3 +59,20 @@ Loops allow you to execute a block of code multiple times.
 
 * **for loop**: Used for iterating over a sequence (like a list, tuple, or range).
 * **while loop**: Executes a block of code as long as a condition is true.
+
+### 7. Lists (`list`)
+Lists are **ordered**, **mutable** (changeable), and allow **duplicate** members. They are written with square brackets `[]`.
+
+```python
+# Creating a list
+ai_tools = ["ChatGPT", "Claude", "Gemini", "ChatGPT"]
+print(ai_tools)  # Duplicates are allowed
+
+# Accessing elements using index (0-based)
+print(ai_tools[0])  # Output: ChatGPT
+
+# Modifying a list
+ai_tools.append("Llama")      # Adds an item at the end
+ai_tools.remove("Claude")     # Removes a specific item
+print(ai_tools) 
+```
