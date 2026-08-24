@@ -82,3 +82,6 @@ Tuples are ordered and immutable (unchangeable once created), but they allow dup
 
 ### 9. Sets (set)
 Sets are unordered, unindexed, and do not allow duplicate values. They are written with curly brackets {}. They are very useful for mathematical operations like union and intersection.
+
+### 10. Dictionaries (dict)
+Dictionaries store data in key-value pairs. They are ordered (as of Python 3.7), mutable, and do not allow duplicate keys. They are written with curly brackets {} using keys and values.
